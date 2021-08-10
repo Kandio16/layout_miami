@@ -4,5 +4,5 @@
 * **Stack technologies:** HTML5, SCSS, JS
 * **Features:** responsive web layout, adaptive for different devices and screens
 * **Methods used:** BEM-methodology for better scaling
-* **DEMO** <a href="https://Kandio16.github.io/layout_dia/">here</a>
+* **DEMO** <a href="https://kandio16.github.io/layout_miami/">here</a>
 
